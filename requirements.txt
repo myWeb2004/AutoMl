@@ -1,4 +1,4 @@
-pandas==1.9.0
+pandas==1.5.3
 pycaret==3.2.0
 streamlit==1.36.0
 streamlit_pandas_profiling==0.1.3
